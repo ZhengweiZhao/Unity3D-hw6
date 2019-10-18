@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{95640861-C3B1-7F03-E7D8-A1E6D541A4F0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/UserGUI.cs">
+    <Files>
+      <File FileName="Assets/Script/RoundActionManager.cs" Line="58" Column="1" />
+      <File FileName="Assets/Script/RoundController.cs" Line="228" Column="1" />
+      <File FileName="Assets/Script/CountDown.cs" Line="33" Column="1" />
+      <File FileName="Assets/Script/DiskData.cs" Line="11" Column="1" />
+      <File FileName="Assets/Script/DiskFactory.cs" Line="55" Column="1" />
+      <File FileName="Assets/Script/IActionManager.cs" Line="10" Column="1" />
+      <File FileName="Assets/Script/MySSAction.cs" Line="169" Column="1" />
+      <File FileName="Assets/Script/PhysisManager.cs" Line="64" Column="1" />
+      <File FileName="Assets/Script/ScoreRecorder.cs" Line="42" Column="1" />
+      <File FileName="Assets/Script/Singleton.cs" Line="25" Column="1" />
+      <File FileName="Assets/Script/SSDirector.cs" Line="55" Column="1" />
+      <File FileName="Assets/Script/UserGUI.cs" Line="90" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity3d-shooting-master" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="UserGUI.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9d344f23-e3ab-47ab-9633-db8c874e8edd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
